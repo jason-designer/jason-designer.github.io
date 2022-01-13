@@ -24,13 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: my title
 email: 1270653169@qq.com
 author: jason-designer
-home:
-    heading: "Welcome to jason-designer's blog!"
-    subheading: "Your awesome subheading"
-    banner: "Your image url"
 
 
 # Copyright setting
