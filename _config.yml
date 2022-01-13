@@ -27,9 +27,10 @@
 title: Your awesome title
 email: 1270653169@qq.com
 author: jason-designer
-heading: "Welcome to jason-designer's blog!"
-subheading: "Your awesome subheading"
-banner: "Your image url"
+home:
+    heading: "Welcome to jason-designer's blog!"
+    subheading: "Your awesome subheading"
+    banner: "Your image url"
 
 
 # Copyright setting
