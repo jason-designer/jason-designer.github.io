@@ -158,7 +158,7 @@ yat:
 # Page default value
 defaults:
   home:
-    heading: "zgs is the best!!!"
+    heading: "welcome"
     subheading: "1111111"
     banner: "Your image url"
 
