@@ -27,13 +27,6 @@
 title: my title
 email: 1270653169@qq.com
 author: jason-designer
- Page default value
- defaults:
-   home:
-     heading: "111111111111111111"
-     subheading: "Your awesome subheading"
-     banner: "Your image url"
-
 
 
 
